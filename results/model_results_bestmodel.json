@@ -1,0 +1,1 @@
+{"Train Time":{"knn":0.0719184279,"logisticregression":9.0663766384,"decisiontreeclassifier":0.158152163,"svc":5.330065012},"Train Accuracy":{"knn":0.8289557976,"logisticregression":0.531069827,"decisiontreeclassifier":0.8885329917,"svc":0.4349775785},"Test Accuracy":{"knn":0.7117232543,"logisticregression":0.5381165919,"decisiontreeclassifier":0.7674567585,"svc":0.4407431134}}
